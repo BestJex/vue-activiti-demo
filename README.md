@@ -2,7 +2,7 @@
 
 > 前端：vue + bpmn-js项目，实现activiti设计器， 后端： springboot + activiti 
 
-ps: 咋都没有人issues里提问呢？
+关于流程校验请看这篇文章：https://github.com/griabcrh/bpmn-js-bpmnlint
 
 鉴于广大程序员们开发设计器苦不堪言以及后端不知道怎么解析自定义属性，于是我就开发了这个基础版本的demo，供广大程序员们学习用，如果有问题请在issue中提问👏👏👏
 
