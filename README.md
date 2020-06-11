@@ -351,7 +351,7 @@ this.bpmnViewer.get('canvas').zoom(width / this.width)
 
 针对后端开发程序员们，我也真整理了后端springboot + activiti的demo；其中介绍了如何解析自定义的属性、如何扩展解析器📒，地址：![后端demo](https://github.com/griabcrh/vue-activiti-demo/tree/master/vue-activiti-service-demo)
 
-针对react + bpmn-js 近期即将上线
+针对react + bpmn-js + flowable,请移步：https://github.com/griabcrh/react_bpmnjs
 
 针对前后端没有分离，可以参考我之前写的activiti项目请移步：https://github.com/griabcrh/ActivitiDemo
 
